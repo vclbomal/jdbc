@@ -32,8 +32,11 @@ public class main {
 		    
 		    System.out.println("message de "+ idUtilisateur + " le "+ dateUtilisateur);
 		}
+		//rien
+		//un autre
 		resultat.close();
 		cn.close();
+		
 				
 	}
 

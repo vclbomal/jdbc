@@ -35,11 +35,11 @@ public class main {
 		resultat.close();
 		cn.close();
 			// une autre modification	
-<<<<<<< HEAD
+//<<<<<<< HEAD
 		//comment test dev
-=======
-		//encore un
->>>>>>> master
+/*=======
+		//encore un//
+>>>>>>> master*/
 	}
 
 }
